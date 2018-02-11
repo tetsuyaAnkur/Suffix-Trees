@@ -2,7 +2,9 @@
 
 A Suffix Tree for a given text is a compressed trie for all suffixes of the given text.
 
+# Generalised Suffix Tree -
 
+A generalised suffix tree is a compressed trie that contains all the suffixes of more than one text. 
 
 
 # About Repository -
